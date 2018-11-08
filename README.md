@@ -15,7 +15,7 @@ For Each app i create a directory put my code in,
 
 |Num.| Date                     | Title                                                           | Tags                         |
 |----|:------------------------ |:--------------------------------------------------------------- | ----------------------------:|
-|0001| 2018-11-1 | [HTML calculator app in JS](./)  |`JS` `calculator`|
+|0001| 2018-11-8 | [IP INFO](./ipinfo)  |`tools` `ip`|
 
 
 
